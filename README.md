@@ -150,15 +150,3 @@ agrivision/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Dataset: [PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
-- Model Architecture: Custom CNN based on research papers
-- UI Design: Material-UI components and custom styling
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/agrivision](https://github.com/yourusername/agrivision) 
